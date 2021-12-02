@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/antuniooh/personal-library">
-    <img src="https://media.tenor.com/images/b42fd9c7290e63c52e3b92561470d30a/tenor.png" alt="Logo" width="550">
+    <img src="https://s2.glbimg.com/Ecj1Ne9SZuc5gQzJC44S96yPUhk=/e.glbimg.com/og/ed/f/original/2019/05/17/machado_de_assis_real.jpg" alt="Logo" width="550">
   </a>
 </p>
 
