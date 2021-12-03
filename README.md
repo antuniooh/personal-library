@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/antuniooh/personal-library">
-    <img src="https://media.tenor.com/images/b42fd9c7290e63c52e3b92561470d30a/tenor.png" alt="Logo" width="550">
+    <img src="https://aventurasnahistoria.uol.com.br/media/_versions/machado_de_assis_widelg.jpg" alt="Logo" width="550">
   </a>
 </p>
 
@@ -45,7 +45,7 @@ Project developed autonomously to list my entire personal library
 
 The program reads a JSON file containing all the books and displays each one.
 
-![app](https://github.com/antuniooh/personal-library/blob/master/images/app.gif)
+![app](https://github.com/antuniooh/personal-library/blob/main/lib.png)
 
 
 <!-- HOW TO RUN -->
