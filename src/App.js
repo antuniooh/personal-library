@@ -22,7 +22,7 @@ function App() {
             </div>
         </div>
         <div className="App-header">
-          <h1>Contagem de livros: {data.length}/200</h1>
+          <h2>Contagem de livros: {data.length}/200</h2>
       </div>
     </div>
   );

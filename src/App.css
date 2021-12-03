@@ -39,14 +39,17 @@ html {
 
 .App-header h1{
   margin-top: 10vh;
+  max-width: 95vw;
   font-size: calc(40px + 2vmin);
   font-family: 'Ubuntu', sans-serif;
   font-weight: 700;
 }
 
 .App-header h2{
-  font-size: calc(15px + 2vmin);
-  max-width: 70vw;
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+  max-width: 95vw;
+  font-size: calc(5px + 2vmin);
   font-family: 'Ubuntu', sans-serif;
   font-weight: 300;
 }

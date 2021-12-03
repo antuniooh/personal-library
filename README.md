@@ -41,9 +41,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## 💻 About The Project
-Project developed autonomously to learn more about ReactJS. It consists of a website where every time it is opened a random curiosity will appear.
+Project developed autonomously to list my entire personal library
 
-The program reads a JSON file containing different curiosities and randomly displays one of these.
+The program reads a JSON file containing all the books and displays each one.
 
 ![app](https://github.com/antuniooh/personal-library/blob/master/images/app.gif)
 

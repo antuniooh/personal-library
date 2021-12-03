@@ -11,10 +11,7 @@ function Book ( { name, imgUri, id } ) {
                 {name}
             </h3>
             <div className="order-card-description">
-                <h3>Contagem</h3>
-                <p>
-                    {id}
-                </p>
+             
             </div>
         </div>
     )
