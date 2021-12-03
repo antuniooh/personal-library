@@ -976,7 +976,7 @@
         "id": 163,
         "title" :"Harry Potter e o Cálice de Fogo",
         "author": "J.K. Rowling",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/51Sqzvqzr1L.jpg"
+        "img": "https://3.bp.blogspot.com/-gqiZH0GajmA/UhpXzJwfYzI/AAAAAAAALfE/vH9KUz6q9yw/s1600/novacapa_especial15anos-HP4.jpg"
     },
     {
         "id": 164,
@@ -1000,7 +1000,7 @@
         "id": 167,
         "title" :"Harry Potter e as Relíquias da Morte",
         "author": "J.K. Rowling",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/51sPAkJlkiL.jpg"
+        "img": "https://a-static.mlcdn.com.br/618x463/harry-potter-e-as-reliquias-da-morte-rocco/soberanobooks/9788532530011/f4b017999ade62018235ceea8a7b8fee.jpg"
     },
     {
         "id": 168,
@@ -1049,5 +1049,47 @@
         "title" :"Sherlock Holmes Volume 4",
         "author": "Arthur Conan Doyle",
         "img": "https://images-na.ssl-images-amazon.com/images/I/91AT94VzvKL.jpg"
+    },
+    {
+        "id": 176,
+        "title" :"A Revolução dos bichos",
+        "author": "George Orwell",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/612QiXA+FyL.jpg"
+    },
+    {
+        "id": 177,
+        "title" :"Auto da compadecida",
+        "author": "Ariano Suassuna",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51YvS9gEVrL._SX322_BO1,204,203,200_.jpg"
+    },
+    {
+        "id": 178,
+        "title" :"Antígona",
+        "author": "Sófocles",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51uTZl+R0WL._SX351_BO1,204,203,200_.jpg"
+    },
+    {
+        "id": 179,
+        "title" :"Brás, Bexiga e Barra Funda",
+        "author": "António de Alcântara Machado",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_645627-MLB26116992160_102017-O.jpg"
+    },
+    {
+        "id": 180,
+        "title" :"O Médico e o Monstro",
+        "author": "Robert Louis Stevenson",
+        "img": "http://1.bp.blogspot.com/-OOBqoENndAU/UQGqDzaiR_I/AAAAAAAAAF4/UW2soPWTLQE/s320/o-medico-e-o-monstro-8506056217.jpg"
+    },
+    {
+        "id": 181,
+        "title" :"A Tulipa Negra",
+        "author": "Alexandre Dumas",
+        "img": "https://images-submarino.b2w.io/produtos/4330560730/imagens/a-tulipa-negra-usado/4330560730_1_large.jpg"
+    },
+    {
+        "id": 182,
+        "title" :"Mensagem",
+        "author": "Fernando Pessoa",
+        "img": "https://images-submarino.b2w.io/produtos/imagens/1746997556/1746997564_1GG.jpg"
     }
 ]
