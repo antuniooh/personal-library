@@ -4,6 +4,8 @@ import data from './data.json';
 import Book from "./Book"
 
 function App() {
+
+  let notRead =  12
   return (
     <div className="orders-container">
       <header className="App-header">
@@ -22,7 +24,8 @@ function App() {
             </div>
         </div>
         <div className="App-header">
-          <h2>Contagem de livros: {data.length}/200</h2>
+          <h2>Contagem de livros lidos: {data.length - notRead} / {data.length} </h2>
+          
       </div>
     </div>
   );
