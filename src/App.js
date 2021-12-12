@@ -5,7 +5,7 @@ import Book from "./Book"
 
 function App() {
 
-  let notRead =  10
+  let notRead =  9
 
   return (
     <div className="orders-container">
