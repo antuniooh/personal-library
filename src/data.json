@@ -2,15 +2,15 @@
 [
     {
         "id": 0,
-        "title" :"Tristão e Isolda",
-        "author": "Helena Gomes",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/91bwQT41E4L.jpg"
+        "title" :"Maus",
+        "author": "Art Spiegelman",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51jq-ZU9yHL._SX345_BO1,204,203,200_.jpg"
     },
     {
         "id": 1,
-        "title" :"O monge e o executivo",
-        "author": "James C. Hunter",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/8192shIMsyL.jpg"
+        "title" :"Persépolis",
+        "author": "Marjane Satrapi",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/814zhAWOKBL.jpg"
     },
     {
         "id": 2,
@@ -70,7 +70,7 @@
         "id": 11,
         "title" :"Harry Potter e a Pedra Filosofal",
         "author": "J.K. Rowling",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/51msv80AuGL.jpg"
+        "img": "https://a-static.mlcdn.com.br/618x463/harry-potter-e-a-pedra-filosofal-j-k-rowling-rocco/soberanobooks/9788532529954/ef1eb7b09f51a522b1dcd3544ca26aea.jpg"
     },
     {
         "id": 12,
@@ -256,7 +256,7 @@
         "id": 43,
         "title" :"O estrangeiro",
         "author": "Albert Camus ",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/51J3GGwtysL._SX301_BO1,204,203,200_.jpg"
+        "img": "https://5934488p.ha.azioncdn.net/capas-livros/9788577992706-albert-camus-valerie-rumjanek-estrangeiro-o-livro-de-bolso-2823047218.jpg"
     },
     {
         "id": 44,
@@ -310,25 +310,25 @@
         "id": 51,
         "title" :"O Príncipe",
         "author": "Nicolau Maquiavel",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/61MbcqP88PL.jpg"
+        "img": "https://a-static.mlcdn.com.br/1500x1500/o-principe-livro-de-nicolau-maquiavel-filosofia-ciencia-politica-ed-hunter-books/dealfaaomegaempdigitais/d20f13c02d1711ebbe0d4201ac18503d/a28a13287e1a3ce7e3ce21a506d1da63.jpg"
     },
     {
         "id": 52,
         "title" :"Apologia de Sócrates",
         "author": "Sócrates",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/61nuKlUJWjL.jpg"
+        "img": "https://www.aabbportoalegre.com.br/intranet/modulos/biblioteca/imgs/4516.jpg"
     },
     {
         "id": 53,
         "title" :"Do Contrato Social",
         "author": "Jean-Jacques Rousseau",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/61hhyoExNBL.jpg"
+        "img": "https://m.media-amazon.com/images/I/414uxGgC0lL.jpg"
     },
     {
         "id": 54,
         "title" :"Holocausto",
         "author": "Dimas da Cruz Oliveira",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/61vKN-pDw9L.jpg"
+        "img": "https://apaixonadosporhistoria.com.br/img/livrocapa/livrocapa_20191020125727_784116365.jpg"
     },
     {
         "id": 55,
@@ -364,19 +364,19 @@
         "id": 60,
         "title" :"Histórias Favoritas",
         "author": " H.P. Lovecraft",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/7145u4xmmYL.jpg"
+        "img": "https://img.skoob.com.br/ba00rpVcvspbBhNsciHY4hLYZ1U=/200x/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/1172311/HISTORIAS_FAVORITAS_15894083751172311SK1589408376B.jpg"
     },
     {
         "id": 61,
         "title" :"Histórias do Horror",
         "author": " Arthur Conan Doyle",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/71pQjJo+FmL.jpg"
+        "img": "https://img.skoob.com.br/0WrNuOADRH-AwA3_Yrxn0tFiQDQ=/200x/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/1172307/HISTORIAS_DE_HORROR_15894082761172307SK1589408278B.jpg"
     },
     {
         "id": 62,
         "title" :"Histórias Primordiais",
         "author": "Edgar Allan Poe",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/71iyD6Bwh6L.jpg"
+        "img": "https://img.skoob.com.br/Veb0pb1LJMRKCeMmNOQNgEZk0hI=/200x/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/1172315/HISTORIAS_PRIMORDIAIS_15894084361172315SK1589408438B.jpg"
     },
     {
         "id": 63,
@@ -412,7 +412,7 @@
         "id": 68,
         "title" :"O Que Acontece Quando Falo Com Deus?",
         "author": "Stormie Omartian",
-        "img": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_e97d277adf5162b8a95b85ee987ce69a4f5e46b8.jpg"
+        "img": "https://img.skoob.com.br/OAWn0w8JZ50FTlPhkrWqzpM0CM8=/200x/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/105281/O_QUE_ACONTECE_QUANDO_EU_FALO_COM_DEUS__1273678876B.jpg"
     },
     {
         "id": 69,
@@ -550,7 +550,7 @@
         "id": 91,
         "title" :"Dom Casmurro",
         "author": "Machado De Assis",
-        "img": "https://cf.shopee.com.br/file/246c2b6bddca1d480f296073c82fe930"
+        "img": "https://caras.uol.com.br/images/large/2008/12/11/img_57905_dom-casmurro.jpg"
     },
     {
         "id": 92,
@@ -760,31 +760,31 @@
         "id": 126,
         "title" :"Memória de minhas putas tristes",
         "author": "Gabriel Garcia Marquez",
-        "img": "https://martinsfontespaulista.vteximg.com.br/arquivos/ids/225776-1000-1000/879089_ampliada.jpg?v=637298916380030000"
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71-e2wggCCL.jpg"
     },
     {
         "id": 127,
         "title" :"O Assassinato de Roger Ackroyd",
         "author": "Agatha Christie",
-        "img": "https://images-submarino.b2w.io/produtos/1943735256/imagens/o-assassinato-de-roger-ackroyd/1943735256_5_xlarge.jpg"
+        "img": "https://http2.mlstatic.com/D_NQ_NP_994337-MLB25987267526_092017-W.jpg"
     },
     {
         "id": 128,
         "title" :"A morte de Ivan Ilitch",
         "author": "Leon Tolstoi",
-        "img": "https://images-americanas.b2w.io/produtos/imagens/256073/256074_1SZ.jpg"
+        "img": "https://images-na.ssl-images-amazon.com/images/I/5111frPlgyL._SX298_BO1,204,203,200_.jpg"
     },
     {
         "id": 129,
         "title" :"Hamlet",
         "author": "William Shakespeare",
-        "img": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_33276a7e9ff5627de54e6ccd8e6a927c812ac49c.jpg"
+        "img": "https://www.containercultura.com.br/imgs/produtos/5401/images/5401.jpg"
     },
     {
         "id": 130,
         "title" :"Quem mexeu no meu queijo?",
         "author": "Spencer Johnson",
-        "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ2yv6fz1gYjmC1-2Vm2Doge9VUz3w8jQJDSuvHypde-P475ICBNHV5wV-Rjeo-Nl6-8hd73eGd8qj9I_Swa7rp2dN2qczX8ttnNT8Wljo&usqp=CAE"
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91x9e70ngtL.jpg"
     },
     {
         "id": 131,
@@ -874,7 +874,7 @@
         "id": 145,
         "title" :"Madame Bovary",
         "author": "Gustave Flaubert",
-        "img": "https://cf.shopee.com.br/file/09565aca141b8d4e141a6d98033cb33a"
+        "img": "data:image/jpeg;base64,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"
     },
     {
         "id": 146,
@@ -886,7 +886,7 @@
         "id": 147,
         "title" :"114 Ligações Inusitadas",
         "author": "Super Interessante",
-        "img": "https://http2.mlstatic.com/D_NQ_NP_900937-MLB29503616366_022019-O.webp"
+        "img": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_619060b09c508d8083c2b1c36b1a38bd1798b809.jpg"
     },
     {
         "id": 148,
@@ -898,13 +898,13 @@
         "id": 149,
         "title" :"Grandes Líderes",
         "author": "Dimas da Cruz Oliveira",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/61RoYKD7jtL.jpg"
+        "img": "https://img.skoob.com.br/PnKOmiX4GFBlM8g4XWzRUz1Ozr0=/200x/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/594917/GRANDES_LIDERES_1512255799594917SK1512255799B.jpg"
     },
     {
         "id": 150,
         "title" :"Grandes Batalhas",
         "author": "Dimas da Cruz Oliveira",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/61Wh0gJg+4L.jpg"
+        "img": "https://img.skoob.com.br/LLyroLLYpg0HHXZCGAGaU4rTyKw=/200x/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/594913/GRANDES_BATALHAS_1512255293594913SK1512255293B.jpg"
     },
     {
         "id": 151,
@@ -916,7 +916,7 @@
         "id": 152,
         "title" :"Em chamas",
         "author": "Suzanne Collins",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/51Adq-nLLwS._SX258_BO1,204,203,200_QL70_ML2_.jpg"
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71qdfpDnomL.jpg"
     },
     {
         "id": 153,
@@ -970,7 +970,7 @@
         "id": 162,
         "title" :"Harry Potter e o Enigma do Príncipe",
         "author": "J.K. Rowling",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/51Sqzvqzr1L.jpg"
+        "img": "https://img.wook.pt/images/harry-potter-e-o-principe-misterioso-j-k-rowling/MXwxNzA5NTB8MjE4NDY0fDE0MTQzNjgwMDAwMDA=/500x"
     },
     {
         "id": 163,
@@ -982,19 +982,19 @@
         "id": 164,
         "title" :"Harry Potter e a Câmara Secreta",
         "author": "J.K. Rowling",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/515qNNhX-0L.jpg"
+        "img": "https://i.pinimg.com/736x/c8/57/c1/c857c11099406f533dbd70bfd37c0eae.jpg"
     },
     {
         "id": 165,
         "title" :"Harry Potter e a Ordem da Fênix",
         "author": "J.K. Rowling",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/51FfYE4QikL.jpg"
+        "img": "https://img.wook.pt/images/harry-potter-e-a-ordem-da-fenix-j-k-rowling/MXw0NTM2Mnw3NTQyOXwxNDE0MzY4MDAwMDAw/500x"
     },
     {
         "id": 166,
         "title" :"Harry Potter e o Prisioneiro de Azkaban",
         "author": "J.K. Rowling",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/51sPAkJlkiL.jpg"
+        "img": "https://images-na.ssl-images-amazon.com/images/I/810Uu3gYgdL.jpg"
     },
     {
         "id": 167,
@@ -1090,19 +1090,19 @@
         "id": 182,
         "title" :"Mensagem",
         "author": "Fernando Pessoa",
-        "img": "https://images-submarino.b2w.io/produtos/imagens/1746997556/1746997564_1GG.jpg"
+        "img": "https://megaleitores.com.br/images/livros/fernando-pessoa/ciranda-cultural/mensagem/153616/9788594318565-fernando-pessoa-ciranda-cultural-mensagem-600b4dbf3fc72-70x95.jpg"
     },
     {
         "id": 183,
-        "title" :"Maus",
-        "author": "Art Spiegelman",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/51jq-ZU9yHL._SX345_BO1,204,203,200_.jpg"
+        "title" :"Tristão e Isolda",
+        "author": "Helena Gomes",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91bwQT41E4L.jpg"
     },
     {
         "id": 184,
-        "title" :"Persépolis",
-        "author": "Marjane Satrapi",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/814zhAWOKBL.jpg"
+        "title" :"O monge e o executivo",
+        "author": "James C. Hunter",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/8192shIMsyL.jpg"
     },
     {
         "id": 185,

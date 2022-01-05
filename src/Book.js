@@ -7,12 +7,6 @@ function Book ( { name, imgUri, id } ) {
                 alt={name}
                 className="order-card-image"
             />
-            <h3 className="order-card-title">
-                {name}
-            </h3>
-            <div className="order-card-description">
-             
-            </div>
         </div>
     )
 }
