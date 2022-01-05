@@ -1091,5 +1091,23 @@
         "title" :"Mensagem",
         "author": "Fernando Pessoa",
         "img": "https://images-submarino.b2w.io/produtos/imagens/1746997556/1746997564_1GG.jpg"
+    },
+    {
+        "id": 183,
+        "title" :"Maus",
+        "author": "Art Spiegelman",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51jq-ZU9yHL._SX345_BO1,204,203,200_.jpg"
+    },
+    {
+        "id": 184,
+        "title" :"Persépolis",
+        "author": "Marjane Satrapi",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/814zhAWOKBL.jpg"
+    },
+    {
+        "id": 185,
+        "title" :"Os assassinos do cartão-postal",
+        "author": "James Patterson",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81Whx6gsQyL.jpg"
     }
 ]
