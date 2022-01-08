@@ -5,7 +5,7 @@ import Book from "./Book"
 
 function App() {
 
-  let notRead =  10
+  let notRead =  9
 
   return (
     <div className="orders-container">
@@ -25,7 +25,7 @@ function App() {
             </div>
         </div>
         <div className="App-header">
-          <h2>Contagem de livros lidos: {data.length - notRead} / {data.length} </h2>
+          <h2>Livros lidos: {data.length - notRead} / {data.length} </h2>
           
       </div>
     </div>

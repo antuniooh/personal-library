@@ -58,8 +58,8 @@
   .orders-list-items {
     width: 80%;
     display: grid;
-    grid-template-columns: repeat(auto-fill, 140px);
-    grid-gap: 20px 15px;
+    grid-template-columns: repeat(auto-fill, 93px);
+    grid-gap: 15px 10px;
     justify-content: space-between;
   }
   
@@ -67,8 +67,8 @@
     background-color: #FFF;
     box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
-    height: 25vh;
-    padding: 10px;
+    height: 23vh;
+    padding: 0px;
     cursor: pointer;
     font-family: 'Ubuntu', sans-serif;
     font-weight: 300;
