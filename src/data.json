@@ -1109,5 +1109,35 @@
         "title" :"Os assassinos do cartão-postal",
         "author": "James Patterson",
         "img": "https://images-na.ssl-images-amazon.com/images/I/81Whx6gsQyL.jpg"
+    },
+    {
+        "id": 186,
+        "title" :"As Aventuras de Tom Sawyer",
+        "author": "Mark Twain",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51d7QGplemL._SX350_BO1,204,203,200_.jpg"
+    },
+    {
+        "id": 187,
+        "title" :"Quando eu parti",
+        "author": "Gayle Forman",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51T5j9LRQaL._SX326_BO1,204,203,200_.jpg"
+    },
+    {
+        "id": 188,
+        "title" :"A Megera Domada",
+        "author": "William Shakespeare",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/5105n7SG7RL._SX329_BO1,204,203,200_.jpg"
+    },
+    {
+        "id": 189,
+        "title" :"Medéia",
+        "author": "Eurípedes",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51LXIbArarS._SX313_BO1,204,203,200_.jpg"
+    },
+    {
+        "id": 190,
+        "title" :"A Sra. Dalloway",
+        "author": "Virginia Woolf",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51CpobHLTDS._SX331_BO1,204,203,200_.jpg"
     }
 ]
