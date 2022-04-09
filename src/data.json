@@ -1112,32 +1112,56 @@
     },
     {
         "id": 186,
-        "title" :"As Aventuras de Tom Sawyer",
-        "author": "Mark Twain",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/51d7QGplemL._SX350_BO1,204,203,200_.jpg"
-    },
-    {
-        "id": 187,
-        "title" :"Quando eu parti",
-        "author": "Gayle Forman",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/51T5j9LRQaL._SX326_BO1,204,203,200_.jpg"
-    },
-    {
-        "id": 188,
         "title" :"A Megera Domada",
         "author": "William Shakespeare",
         "img": "https://images-na.ssl-images-amazon.com/images/I/5105n7SG7RL._SX329_BO1,204,203,200_.jpg"
     },
     {
-        "id": 189,
+        "id": 187,
         "title" :"Medéia",
         "author": "Eurípedes",
         "img": "https://images-na.ssl-images-amazon.com/images/I/51LXIbArarS._SX313_BO1,204,203,200_.jpg"
     },
     {
-        "id": 190,
+        "id": 188,
         "title" :"A Sra. Dalloway",
         "author": "Virginia Woolf",
         "img": "https://images-na.ssl-images-amazon.com/images/I/51CpobHLTDS._SX331_BO1,204,203,200_.jpg"
+    },
+    {
+        "id": 189,
+        "title" :"Death Note Volume 1",
+        "author": "Tsugumi Ohba e Takeshi Obata",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/612x+rQ0yJL.jpg"
+    },
+    {
+        "id": 190,
+        "title" :"Death Note Volume 2",
+        "author": "Tsugumi Ohba e Takeshi Obata",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61u4F24zhtL.jpg"
+    },
+    {
+        "id": 191,
+        "title" :"Death Note Volume 3",
+        "author": "Tsugumi Ohba e Takeshi Obata",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61IL0YNkZkL.jpg"
+    },
+    {
+        "id": 192,
+        "title" :"Death Note Volume 4",
+        "author": "Tsugumi Ohba e Takeshi Obata",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61mghXWDC7L.jpg"
+    },
+    {
+        "id": 193,
+        "title" :"Death Note Volume 5",
+        "author": "Tsugumi Ohba e Takeshi Obata",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61wk2qvTB3L.jpg"
+    },
+    {
+        "id": 194,
+        "title" :"Death Note Volume 6",
+        "author": "Tsugumi Ohba e Takeshi Obata",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61Zu9kz7A7L.jpg"
     }
 ]

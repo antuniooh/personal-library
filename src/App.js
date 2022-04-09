@@ -5,12 +5,19 @@ import Book from "./Book"
 
 function App() {
 
-  let notRead =  13
+  let notRead =  9
 
   return (
+   
     <div className="orders-container">
       <header className="App-header">
         <h1>Só livro pedrada do antonio</h1>
+        {/* <div class="search">
+          <input type="text" class="searchTerm" placeholder="Qual o livro?"/>
+          <button type="submit" class="searchButton">
+            <i class="fa fa-search"></i>
+          </button>
+        </div> */}
       </header>
       <div className="orders-list-container">
             <div className="orders-list-items">
