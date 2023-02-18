@@ -1,7 +1,7 @@
 import "./styles.css"
-function Book ( { name, imgUri, id } ) {
+function Book ( { name, imgUri, id, notReaded } ) {
     return (
-        <div className="order-card-container">
+        <div className={`order-card-container ${notReaded ? 'selected' : ''}`}>
             <img 
                 src={imgUri}
                 alt={name}

@@ -2,10 +2,13 @@ import './App.css';
 
 import data from './data.json';
 import Book from "./Book"
+import axios from "axios";
 
 function App() {
 
-  let notRead =  9
+  let notRead =  13
+
+  console.log(axios("http://127.0.0.1:8001/reator"))
 
   return (
    
@@ -26,6 +29,7 @@ function App() {
                         id={product.id}
                         name={product.title} 
                         imgUri={product.img}
+                        notReaded={product.notReaded}
                     />
                         
                 ))}

@@ -76,7 +76,8 @@
         "id": 12,
         "title" :"O rei do inverno",
         "author": "Bernard Cornwell",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/61QDACg16GL._SX330_BO1,204,203,200_.jpg"
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61QDACg16GL._SX330_BO1,204,203,200_.jpg",
+        "notReaded": true
     },
     {
         "id": 13,
@@ -388,13 +389,15 @@
         "id": 64,
         "title" :"Crepúsculo dos ídolos",
         "author": "Friedrich Nietzsche",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/51yIeyNJ7qL._SX339_BO1,204,203,200_.jpg"
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51yIeyNJ7qL._SX339_BO1,204,203,200_.jpg",
+        "notReaded": true
     },
     {
         "id": 65,
         "title" :"Jurassic Park",
         "author": "Michael Crichton",
-        "img": "https://http2.mlstatic.com/D_NQ_NP_939512-MLB42416492154_062020-O.jpg"
+        "img": "https://http2.mlstatic.com/D_NQ_NP_939512-MLB42416492154_062020-O.jpg",
+        "notReaded": true
     },
     {
         "id": 66,
@@ -796,7 +799,7 @@
         "id": 132,
         "author" :"Fíodor Dostoiveski",
         "title": "Crime e Castigo",
-        "img": "https://pacobello.com.br/inc/material_site/capas/650-1000204418372.jpg"
+        "img": "data:image/jpeg;base64,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"
     },
     {
         "id": 133,
@@ -880,7 +883,8 @@
         "id": 146,
         "title" :"The Sea of Monters",
         "author": "Rick Riordan",
-        "img": "https://i2.wp.com/books.disney.com/content/uploads/2013/09/9780786856862.jpg?fit=405%2C612&ssl=1"
+        "img": "https://i2.wp.com/books.disney.com/content/uploads/2013/09/9780786856862.jpg?fit=405%2C612&ssl=1",
+        "notReaded": true
     },
     {
         "id": 147,
@@ -922,13 +926,15 @@
         "id": 153,
         "title" :"Excalibur",
         "author": "Bernard Cornwell",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/51zbiKWyCrL._SY344_BO1,204,203,200_QL70_ML2_.jpg"
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51zbiKWyCrL._SY344_BO1,204,203,200_QL70_ML2_.jpg",
+        "notReaded": true
     },
     {
         "id": 154,
         "title" :"O inimigo de Deus",
         "author": "Bernard Cornwell",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/61mqfoVwoTL._SY344_BO1,204,203,200_QL70_ML2_.jpg"
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61mqfoVwoTL._SY344_BO1,204,203,200_QL70_ML2_.jpg",
+        "notReaded": true
     },
     {
         "id": 155,
@@ -1090,13 +1096,14 @@
         "id": 182,
         "title" :"Mensagem",
         "author": "Fernando Pessoa",
-        "img": "https://megaleitores.com.br/images/livros/fernando-pessoa/ciranda-cultural/mensagem/153616/9788594318565-fernando-pessoa-ciranda-cultural-mensagem-600b4dbf3fc72-70x95.jpg"
+        "img": "https://http2.mlstatic.com/D_NQ_NP_776268-MLU50516140057_062022-W.jpg"
     },
     {
         "id": 183,
         "title" :"Tristão e Isolda",
         "author": "Helena Gomes",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/91bwQT41E4L.jpg"
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91bwQT41E4L.jpg",
+        "notReaded": true
     },
     {
         "id": 184,
@@ -1126,7 +1133,8 @@
         "id": 188,
         "title" :"A Sra. Dalloway",
         "author": "Virginia Woolf",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/51CpobHLTDS._SX331_BO1,204,203,200_.jpg"
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51CpobHLTDS._SX331_BO1,204,203,200_.jpg",
+        "notReaded": true
     },
     {
         "id": 189,
@@ -1163,5 +1171,46 @@
         "title" :"Death Note Volume 6",
         "author": "Tsugumi Ohba e Takeshi Obata",
         "img": "https://images-na.ssl-images-amazon.com/images/I/61Zu9kz7A7L.jpg"
+    },
+    {
+        "id": 195,
+        "title" :"Zetman Volume 1",
+        "author": "Masakazu Katsura",
+        "img": "https://m.media-amazon.com/images/I/51NxdMP52hL._SX343_BO1,204,203,200_.jpg",
+        "notReaded": true
+    },
+    {
+        "id": 196,
+        "title" :"Eden Zero Volume 1",
+        "author": "Hiro Mashima",
+        "img": "https://m.media-amazon.com/images/I/51G9+MEdlgL.jpg"
+    },
+    {
+        "id": 197,
+        "title" :"Naruto Volume 1",
+        "author": "Masashi Kishimoto",
+        "img": "https://m.media-amazon.com/images/I/91xUwI2UEVL._AC_SL1500_.jpg",
+        "notReaded": true
+    },
+    {
+        "id": 198,
+        "title" :"Mulheres",
+        "author": "Charles Bukowski",
+        "img": "https://m.media-amazon.com/images/I/71jXvKxMumL.jpg",
+        "notReaded": true
+    },
+    {
+        "id": 199,
+        "title" :"A Verdadeira História de Itachi: Uma Luz Resplandecente",
+        "author": "Masashi Kishimoto",
+        "img": "https://comicboom.com.br/loja/wp-content/uploads/2022/10/whatsapp-image-2022-10-25-at-171251.jpeg",
+        "notReaded": true
+    },
+    {
+        "id": 200,
+        "title" :"Boruto Volume 10",
+        "author": "Masashi Kishimoto",
+        "img": "https://m.media-amazon.com/images/I/81eq4qU7lGL.jpg",
+        "notReaded": true
     }
 ]
