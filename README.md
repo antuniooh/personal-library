@@ -45,7 +45,7 @@ Project developed autonomously to list my entire personal library
 
 The program reads a JSON file containing all the books and displays each one.
 
-![app](https://github.com/antuniooh/personal-library/blob/main/lib.png)
+![app](https://github.com/antuniooh/personal-library/blob/main/libv2.png)
 
 
 <!-- HOW TO RUN -->
