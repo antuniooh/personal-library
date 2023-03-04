@@ -6,7 +6,7 @@ import axios from "axios";
 
 function App() {
 
-  let notRead =  13
+  let notRead =  9
 
   console.log(axios("http://127.0.0.1:8001/reator"))
 
